@@ -2,7 +2,9 @@
 Meu nome é <b><i> Arlindo,</i></b> e sou formado em análise e desenvolvimento de sistemas.
 <i> <b> Atualmente estou em busca do primeiro contato profissional com a programação, </b> </i>enquanto isso, sigo aperfeiçoando um conhecimento já existente, embora básico, e estudando novas tecnologias. 
 Sou desenvolvedor junior do meu front e do back também, tenho que me virar, né ? 
+
 Alguma dúvida : :question:
+
 Se quiser falar comigo , :point_down:.
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
