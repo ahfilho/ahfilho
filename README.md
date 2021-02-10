@@ -1,7 +1,9 @@
 ## Olá, bem-vindo!  :wave: 
 Meu nome é <b><i> Arlindo,</i></b> e sou formado em análise e desenvolvimento de sistemas.
-Atualmente estou aperfeiçoando um conhecimento já existente, embora básico, e estudando novas tecnologias. 
-Sou desenvolvedor junior do meu front e do back também, tenho que me virar, né ?   Se quiser falar comigo , :point_down:.
+<i> <b> Atualmente estou em busca do primeiro contato profissional com a programação, </b> </i>enquanto isso, sigo aperfeiçoando um conhecimento já existente, embora básico, e estudando novas tecnologias. 
+Sou desenvolvedor junior do meu front e do back também, tenho que me virar, né ? 
+Alguma dúvida : :question:
+Se quiser falar comigo , :point_down:.
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
@@ -26,7 +28,9 @@ Iniciando com Javascritp, Spring boot e API rest.
 )
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
- 
+ ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+
 Tenho mais proximidade com Java, que foi utilizda na maior parte das coisas que fiz durante e pós faculdade. 
  
 Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench.
@@ -35,20 +39,3 @@ Além desse conhecimento básico com programação, tenho um bom conhecimento so
 
 
 
-
-### Hi there 👋
-
-<!--
-**ahfilho/ahfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
