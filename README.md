@@ -34,7 +34,7 @@ Iniciando com Javascritp, Spring boot e API rest.
 )
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )
-Tenho mais proximidade com Java, que foi utilizda na maior parte das coisas que fiz durante e pós faculdade. 
+Tenho mais proximidade com Java, que foi utilizada na maior parte das coisas que fiz durante e pós faculdade. 
  
 Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench.
 
