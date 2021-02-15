@@ -1,7 +1,7 @@
 ## Olá, bem-vindo!  :wave: 
 Meu nome é <b><i> Arlindo,</i></b> e sou formado em análise e desenvolvimento de sistemas.
 <i> <b> Atualmente estou em busca do primeiro contato profissional com a programação, </b> </i>enquanto isso, sigo aperfeiçoando um conhecimento já existente, embora básico, e estudando novas tecnologias. 
-Sou desenvolvedor junior do meu front e do back também, tenho que me virar, né ? 
+Nos meus estudos sou o desenvolvedor do front e do back também, dessa forma aprendo um pouco de cada.
 
 Alguma dúvida : :question:
 
