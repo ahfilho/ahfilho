@@ -16,7 +16,7 @@ Se quiser falar comigo , :point_down:.
 )</a>
 
 :construction_worker:	Tenho conhecimento básico em: Java, C, HTML, CSS, Bootstrap e mysql.
-Iniciando com Javascritp, Spring boot e API rest.
+Iniciando com Javascritp e Spring boot.
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
