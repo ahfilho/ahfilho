@@ -36,9 +36,9 @@ Se quiser falar comigo , :point_down:.
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )
 <br>
-Tenho mais proximidade com Java, que foi utilizada na maior parte das coisas que fiz durante e pós faculdade. 
+Tenho mais proximidade com Java, que foi utilizada na maior parte das coisas que participei.
  
-Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench.
+Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench e o postman para testes com API REST.
 
 Além desse conhecimento básico com programação, tenho um bom conhecimento sobre hardware/software, já que faço uns trampos com manutençao de PC e afins. 
 
