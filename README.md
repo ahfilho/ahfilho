@@ -15,7 +15,7 @@ Se quiser falar comigo , :point_down:.
 <a href="https://www.instagram.com/afilho_/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )</a>
 
-:construction_worker:	Tenho conhecimento um pouco mais aprofundado em Java. Conhecimento básico em C, Javascript, Mysql, HTML, CSS, Bootstrap.
+:construction_worker:	Tenho conhecimento em Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
 
 <b>No momento estou estudando/praticando Spring boot, REST API e etc.</b>
 
