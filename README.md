@@ -16,6 +16,7 @@ Se quiser falar comigo , :point_down:.
 )</a>
 
 :construction_worker:	Tenho conhecimento um pouco mais aprofundado em Java. Conhecimento básico em C, Javascript, Mysql, HTML, CSS, Bootstrap.
+
 <b>No momento estou estudando/praticando Spring boot, REST API e etc.</b>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
