@@ -1,11 +1,11 @@
-## Olá, bem-vindo!  :wave: 
-Meu nome é <b><i> Arlindo,</i></b> sou graduado em análise e desenvolvimento de sistemas.
-<i> <b> <strong>Atualmente estou em busca do primeiro contato profissional, para poder assim agregar mais ao meu atual conhecimento e colaborar da mesma forma. </strong></b> </i>Enquanto isso, sigo aperfeiçoando um conhecimento já existente, embora básico, e estudando novas tecnologias. 
-Nos meus estudos sou o desenvolvedor do front e do back também, dessa forma aprendo um pouco de cada.
+## Hello welcome!  :wave: 
+My name is<b><i> Arlindo,</i></b> i have a degree in systems analysis and development.
+<i> <b> <strong>I am currently looking for my first professional contact, so that I can add more to my current knowledge and collaborate in the same way. </strong></b>
+</i>In the meantime, I continue to improve existing knowledge, albeit basic, and study new technologies. 
+In my studies I am the developer of the front and back also, so I learn a little of each.
+Any questions : :question:
 
-Alguma dúvida : :question:
-
-Se quiser falar comigo , :point_down:.
+If you want to talk to me , :point_down:.
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
@@ -15,9 +15,10 @@ Se quiser falar comigo , :point_down:.
 <a href="https://www.instagram.com/afilho_/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )</a>
 
-:construction_worker:	Tenho conhecimento em Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
+:construction_worker:	I have knowledge in Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
 
-<b>No momento estou estudando/praticando Spring boot, REST API e etc.</b>
+<b>
+I am currently studying / practicing Spring boot, REST API and etc.</b>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
@@ -36,11 +37,12 @@ Se quiser falar comigo , :point_down:.
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )
 <br>
-Tenho mais proximidade com Java, que foi utilizada na maior parte das coisas que participei.
+
+I have more proximity to Java, which was used in most of the things I participated in.
  
-Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench e o postman para testes com API REST.
 
-Além desse conhecimento básico com programação, tenho um bom conhecimento sobre hardware/software, já que faço uns trampos com manutençao de PC e afins. 
+Tools I use: Eclipse, VSCODE, Spring tolls, the good old xampp, workbench and the postman for testing with REST API.
 
+In addition to this basic knowledge with programming, I have a good knowledge of hardware / software, since I do some work with PC maintenance and the like.
 
 
