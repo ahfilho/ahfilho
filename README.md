@@ -3,6 +3,8 @@ My name is<b><i> Arlindo,</i></b> i have a degree in systems analysis and develo
 <i> <b> <strong>I am currently looking for my first professional contact, so that I can add more to my current knowledge and collaborate in the same way. </strong></b>
 </i>In the meantime, I continue to improve existing knowledge, albeit basic, and study new technologies. 
 In my studies I am the developer of the front and back also, so I learn a little of each.
+<br>
+
 Any questions : :question:
 
 If you want to talk to me , :point_down:.
