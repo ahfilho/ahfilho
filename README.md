@@ -12,6 +12,8 @@ Se você quiser falar comigo, 👇.
 )</a>
 <a href="https://www.instagram.com/afilho_/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )</a>
+<br>
+<hr/>
 👷 Tenho conhecimentos em Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
 
 Atualmente, estou estudando / praticando Spring boot, REST API e etc. </b>
