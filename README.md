@@ -19,16 +19,8 @@ Embora não tenha mmuito conhecimento como almejo, continuo estudando e pratican
 )</a>
 <br>
 <hr/>
-👷 Além das skills abaixo, também tenho conhecimento em JSP, JSF e api REST.
-<br>
-[X]Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
-
-[X]Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
-
-[!]Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
-
-<hr>
- <b> Minhas habilidades </b> 
+ 
+## Minhas habilidades
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
@@ -47,6 +39,15 @@ Embora não tenha mmuito conhecimento como almejo, continuo estudando e pratican
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+<hr>
+👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF e api REST.
+<br>
+[X]Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
+
+[X]Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
+
+[!]Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
 <hr>
 
