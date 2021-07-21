@@ -1,7 +1,8 @@
 ## Hello welcome!  :wave: 
-<li>🎓 Formado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE).
-<br><li>
-No momento estou em busca do primeiro contato profissional como desenvolvedor junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe. 
+<li>🎓 Graduado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE) - 2019
+<br>
+<li>No momento estou em busca do primeiro contato profissional como desenvolvedor backend junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe.
+<li>Tenho me dedicado mais ao back, mas também tenho conhecimento com o front.
 Embora não tenha mmuito conhecimento como almejo, continuo estudando e praticando para me preparar cada vez mais. 
 
 <li>Se interessou pelo meu perfil ❓
@@ -27,22 +28,22 @@ Embora não tenha mmuito conhecimento como almejo, continuo estudando e pratican
 <hr>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-)<br>
+)
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )<br>
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-<br>
+
 <hr>
 
