@@ -1,13 +1,9 @@
 ## Hello welcome!  :wave: 
-My name is<b><i> Arlindo,</i></b> i have a degree in systems analysis and development.
-<i> <b> <strong>I am currently looking for my first professional contact, so that I can add more to my current knowledge and collaborate in the same way. </strong></b>
-</i>In the meantime, I continue to improve existing knowledge, albeit basic, and study new technologies. 
-In my studies I am the developer of the front and back also, so I learn a little of each.
-<br>
+Meu nome é Arlindo, sou formado em análise e desenvolvimento de sistemas. No momento procuro meu primeiro contato profissional, para que possa agregar mais aos meus conhecimentos atuais e colaborar da mesma forma. Nesse ínterim, continuo aprimorando o conhecimento existente, embora básico, e estudando novas tecnologias. Nos meus estudos sou o desenvolvedor da frente e de trás também, então aprendo um pouco de cada uma.
 
-Any questions : :question:
+Qualquer dúvida: ❓
 
-If you want to talk to me , :point_down:.
+Se você quiser falar comigo, 👇.
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
@@ -16,11 +12,9 @@ If you want to talk to me , :point_down:.
 )</a>
 <a href="https://www.instagram.com/afilho_/">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )</a>
+👷 Tenho conhecimentos em Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
 
-:construction_worker:	I have knowledge in Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
-
-<b>
-I am currently studying / practicing Spring boot, REST API and etc.</b>
+Atualmente, estou estudando / praticando Spring boot, REST API e etc. </b>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )<br>
@@ -40,11 +34,8 @@ I am currently studying / practicing Spring boot, REST API and etc.</b>
 )<br>
 <br>
 
-I have more proximity to Java, which was used in most of the things I participated in.
- 
+Tenho mais proximidade com o Java, que foi usado na maioria das coisas de que participei.
 
-Tools I use: Eclipse, VSCODE, Spring tolls, the good old xampp, workbench and the postman for testing with REST API.
+Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench e o carteiro para teste com API REST.
 
-In addition to this basic knowledge with programming, I have a good knowledge of hardware / software, since I do some work with PC maintenance and the like.
-
-
+Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
