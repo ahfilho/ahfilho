@@ -3,6 +3,7 @@
 <br>
 <li>No momento estou em busca do primeiro contato profissional como desenvolvedor backend junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe.
 <li>Tenho me dedicado mais ao back, mas também tenho conhecimento com o front.
+ <br>
 Embora não tenha mmuito conhecimento como almejo, continuo estudando e praticando para me preparar cada vez mais. 
 
 <li>Se interessou pelo meu perfil ❓
@@ -18,7 +19,8 @@ Embora não tenha mmuito conhecimento como almejo, continuo estudando e pratican
 )</a>
 <br>
 <hr/>
-👷 Além das skills abaixo, também tenho conhecimento em JSP, JSF e api REST. </b>
+👷 Além das skills abaixo, também tenho conhecimento em JSP, JSF e api REST.
+<br>
 [X]Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
 
 [X]Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
@@ -26,6 +28,7 @@ Embora não tenha mmuito conhecimento como almejo, continuo estudando e pratican
 [!]Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
 <hr>
+ <b> Minhas habilidades </b> 
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
