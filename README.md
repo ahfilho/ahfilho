@@ -1,5 +1,5 @@
 ## Hello welcome!  :wave: 
-Meu nome é Arlindo, sou formado em análise e desenvolvimento de sistemas. No momento procuro meu primeiro contato profissional, para que possa agregar mais aos meus conhecimentos atuais e colaborar da mesma forma. Nesse ínterim, continuo aprimorando o conhecimento existente, embora básico, e estudando novas tecnologias. Nos meus estudos sou o desenvolvedor da frente e de trás também, então aprendo um pouco de cada uma.
+<li>🎓 Formado em análise e desenvolvimento de sistemas - (UNIFAVIP). No momento procuro meu primeiro contato profissional, para que possa agregar mais aos meus conhecimentos atuais e colaborar da mesma forma. Nesse ínterim, continuo aprimorando o conhecimento existente, embora básico, e estudando novas tecnologias. Nos meus estudos sou o desenvolvedor da frente e de trás também, então aprendo um pouco de cada uma.
 
 Qualquer dúvida: ❓
 
