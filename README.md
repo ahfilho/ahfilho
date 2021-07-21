@@ -1,9 +1,12 @@
 ## Hello welcome!  :wave: 
-<li>🎓 Formado em análise e desenvolvimento de sistemas - (UNIFAVIP). No momento procuro meu primeiro contato profissional, para que possa agregar mais aos meus conhecimentos atuais e colaborar da mesma forma. Nesse ínterim, continuo aprimorando o conhecimento existente, embora básico, e estudando novas tecnologias. Nos meus estudos sou o desenvolvedor da frente e de trás também, então aprendo um pouco de cada uma.
+<li>🎓 Formado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE).
+<br><li>
+No momento estou em busca do primeiro contato profissional como desenvolvedor junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe. 
+Embora não tenha mmuito conhecimento como almejo, continuo estudando e praticando para me preparar cada vez mais. 
 
-Qualquer dúvida: ❓
+Se interessou pelo meu perfil ❓
 
-Se você quiser falar comigo, 👇.
+Se você quiser falar comigo, 👇
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
@@ -14,9 +17,7 @@ Se você quiser falar comigo, 👇.
 )</a>
 <br>
 <hr/>
-👷 Tenho conhecimentos em Java, C, Javascript, Mysql, HTML, CSS, Bootstrap.
-
-Atualmente, estou estudando / praticando Spring boot, REST API e etc. </b>
+👷 Tenho conhecimentos em Java, JSP, JSF, C, Javascript, Mysql, HTML, CSS, Bootstrap, Spring boot, api REST. </b>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )<br>
@@ -36,8 +37,8 @@ Atualmente, estou estudando / praticando Spring boot, REST API e etc. </b>
 )<br>
 <br>
 
-Tenho mais proximidade com o Java, que foi usado na maioria das coisas de que participei.
+Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
 
-Ferramentas que utilizo: Eclipse, VSCODE, Spring tolls, o bom e velho xampp, workbench e o carteiro para teste com API REST.
+Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
 
 Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
