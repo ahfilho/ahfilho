@@ -17,7 +17,14 @@ Se você quiser falar comigo, 👇
 )</a>
 <br>
 <hr/>
-👷 Tenho conhecimentos em Java, JSP, JSF, C, Javascript, Mysql, HTML, CSS, Bootstrap, Spring boot, api REST. </b>
+👷 Além das skills abaixo, também tenho conhecimento em JSP, JSF e api REST. </b>
+Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
+
+Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
+
+Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
+
+<hr>
 
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )<br>
@@ -35,10 +42,8 @@ Se você quiser falar comigo, 👇
 )<br>
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )<br>
+[image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+)
 <br>
+<hr>
 
-Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
-
-Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
-
-Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
