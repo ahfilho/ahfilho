@@ -4,9 +4,9 @@
 No momento estou em busca do primeiro contato profissional como desenvolvedor junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe. 
 Embora não tenha mmuito conhecimento como almejo, continuo estudando e praticando para me preparar cada vez mais. 
 
-Se interessou pelo meu perfil ❓
+<li>Se interessou pelo meu perfil ❓
 
-Se você quiser falar comigo, 👇
+<li>Se você quiser falar comigo, 👇
 
 <a href="https://www.linkedin.com/in/arlindo-filho-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
@@ -18,11 +18,11 @@ Se você quiser falar comigo, 👇
 <br>
 <hr/>
 👷 Além das skills abaixo, também tenho conhecimento em JSP, JSF e api REST. </b>
-Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
+[X]Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
 
-Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
+[X]Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
 
-Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
+[!]Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
 <hr>
 
@@ -42,8 +42,7 @@ Além desse conhecimento básico com programação, tenho bons conhecimentos de 
 )<br>
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )<br>
-[image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 <br>
 <hr>
 
