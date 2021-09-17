@@ -1,4 +1,7 @@
-## Hello welcome!  :wave: 
+<p align="center"> ## Hello welcome!  :wave:  </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+
+
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE) - 2019
 <br>
 <li>No momento estou em busca do primeiro contato profissional como desenvolvedor backend junior, para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe.
