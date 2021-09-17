@@ -1,9 +1,9 @@
 <p align="center">Hello welcome!  :wave:  </p> 
-  <h4>Contador de visitas desde o dia 17/09/21 </h4>
-  <h4>Visitor count since day</h4>
-<p align="center">Você é o visitante numero:</p>
-<p align="center">you is visitor number:</p>
-<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+  <h4>Contador de visitas desde o dia 16/02/21 </h4>
+  <h4>Visitor count since day 02/16/21</h4>
+<h5><p align="center">Você é o visitante numero:</p></h5>
+<h5><p align="center">you is visitor number:</p></h5>
+<h5><p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p></h5>
 
 
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE) - 2019
