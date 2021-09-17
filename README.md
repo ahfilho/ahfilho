@@ -1,7 +1,7 @@
 <p align="center">Hello welcome!  :wave:  </p>
 <p align="center">Você é o visitante numero:</p>
 <p align="center">you is visitor number:</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/https://github.com/ahfilho/count.svg" /></p>
 
 
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE) - 2019
