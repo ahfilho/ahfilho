@@ -1,6 +1,6 @@
 <p align="center"> ## Hello welcome!  :wave:  </p>
-<p>Você é o visitante numero:</p>
-<p>you is visitor number:</p>
+<p align="center">##Você é o visitante numero:</p>
+<p align="center">##you is visitor number:</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 
