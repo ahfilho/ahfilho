@@ -45,9 +45,10 @@ Embora não tenha muito conhecimento como almejo, continuo estudando e praticand
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  
+👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF, api REST, JPA, Hibernate.
 
 <hr>
-👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF e api REST.
 <br>
 <li>Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
 
