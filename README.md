@@ -7,9 +7,9 @@
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - (UNIFAVIP-Caruaru/PE) - 2019
 <br>
 <li>No momento estou em busca do primeiro contato profissional como desenvolvedor backend, front ou full junior (Sim, sei um pouco de cada lado), para que eu possa agregar mais ao meu conhecimento atual e poder contribuir com a equipe.
-<li>Tenho me dedicado mais ao back, mas também tenho conhecimento com o front.
+<li>Tenho conhecimentos tanto do back quanto do front.
  <br>
-Embora não tenha muito conhecimento como almejo, continuo estudando e praticando para me preparar cada vez mais. 
+Embora ainda não possua experiência profissional, continuo estudando e aprendendo para quando essa hora chegar.
 
 <li>Se interessou pelo meu perfil ❓
 
