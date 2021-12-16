@@ -44,7 +44,7 @@ Embora ainda não possua experiência profissional, continuo estudando e aprende
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
-👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF, api REST, JPA, Hibernate, um pouco de thymeleaf, MVC.
+👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF, api REST, Spring data Jpa, Hibernate, um pouco de thymeleaf, MVC.
 
 <hr>
 <br>
