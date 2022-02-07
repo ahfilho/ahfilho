@@ -42,13 +42,13 @@
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
-👷 Além das habilidades citadas acima, também tenho conhecimento em JSP, JSF, api REST, Spring data Jpa Spring MVC, Hibernate, um pouco de thymeleaf.
+👷 Também  possuo conhecimento em JSP, JSF, api REST, Jpa, Spring MVC, thymeleaf.
 
 <hr>
 <br>
-<li>Tenho mais proximidade com o Java, que foi a mais utilizada por mim, então sigo com ela e seus frameworks.
+<li>Tenho mais proximidade com java e é a linguagem que escolhi para continuar estudando.
 
-<li>Ferramentas que utilizo: ECLIPSE, VSCODE, STS, o bom e velho XAMPP, WORKBENCH e o POSTMAN para teste com API REST.
+<li>Ferramentas que utilizo: ECLIPSE, VSCODE, STS, WORKBENCH e o POSTMAN.
 
 <li>Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
