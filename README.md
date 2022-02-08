@@ -6,9 +6,6 @@
 
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - UNIFAVIP-Caruaru/PE
 <br>
-<li>No momento estou em busca de um primeiro contato profissional como desenvolvedor backend ou full junior. Quero agregar mais conhecimento e novas experiências ao meu momento atual, almejo evoluir como profissional.
- <br>
-
 <li>Se interessou pelo meu perfil ❓
 
 <li>Se você quiser falar comigo, 👇
