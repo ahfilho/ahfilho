@@ -6,7 +6,7 @@
 
 <li>🎓 Graduado em análise e desenvolvimento de sistemas - UNIFAVIP-Caruaru/PE
 <br>
-<li>Se interessou pelo meu perfil ❓
+
 
 <li>Se você quiser falar comigo, 👇
 
