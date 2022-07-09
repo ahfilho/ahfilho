@@ -36,16 +36,21 @@
  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )<br>
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
-👷 Também  possuo conhecimento em JSP, JSF, api REST, Jpa, Spring MVC, thymeleaf.
+👷 Também  possuo conhecimento em JSP, JSF, API REST, JPA, thymeleaf.
 
 <hr>
 <br>
-<li>Tenho mais proximidade com java e é a linguagem que escolhi para continuar estudando.
+<li>Tenho mais proximidade com Java.
 
-<li>Ferramentas que utilizo: ECLIPSE, VSCODE, STS, WORKBENCH e o POSTMAN.
+<li>Ferramentas que utilizo: INTELLIJ, ECLIPSE, VSCODE, Spring Tools Suite e o POSTMAN.
 
 <li>Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
