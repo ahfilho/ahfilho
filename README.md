@@ -44,11 +44,8 @@
 )<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   
-👷 Também  possuo conhecimento em JSP, JSF, API REST, JPA, thymeleaf.
+👷 Também  possuo conhecimento em JSP, JSF, API REST, JPA, thymeleaf. No momento estou estudando Kotlin.
 
-<hr>
-<br>
-<li>Tenho mais proximidade com Java.
 
 <li>Ferramentas que utilizo: INTELLIJ, ECLIPSE, VSCODE, Spring Tools Suite e o POSTMAN.
 
