@@ -43,7 +43,7 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-👷 Também possuo conhecimento em JSP, JSF, thymeleaf. No momento estou estudando Kotlin e ReactJS.
+👷 Também possuo conhecimento em  Java EE, JSP, JSF, thymeleaf. No momento estou estudando Kotlin e ReactJS.
 
 
 <li>Ferramentas que utilizo: Intellij, Eclipse, Vscode, Spring Tools Suite e o Postman.
