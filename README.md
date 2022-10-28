@@ -39,13 +39,14 @@
  )
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
  )
-<br>
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-👷 Também  possuo conhecimento em JSP, JSF, API REST, JPA, thymeleaf. No momento estou estudando Kotlin.
+👷 Também possuo conhecimento em JSP, JSF, thymeleaf. No momento estou estudando Kotlin e ReactJS.
 
 
-<li>Ferramentas que utilizo: INTELLIJ, ECLIPSE, VSCODE, Spring Tools Suite e o POSTMAN.
+<li>Ferramentas que utilizo: Intellij, Eclipse, Vscode, Spring Tools Suite e o Postman.
 
 <li>Além desse conhecimento básico com programação, tenho bons conhecimentos de hardware / software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
