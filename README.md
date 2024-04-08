@@ -14,11 +14,11 @@
 
 <a href="https://www.linkedin.com/in/arlindo-lima-35a89a1a4/"> ![https://www.linkedin.com/in/arlindo-filho-35a89a1a4/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
-/*
+<!--
 <a href="https://api.whatsapp.com/send?phone=5581992870704&text=Oi%2C%20eu%20venho%20do%20git.">
 ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)</a>*/
-
+)</a>
+-->
 <br>
 <hr/>
  
