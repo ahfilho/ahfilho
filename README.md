@@ -54,7 +54,7 @@
 
 <li>Ferramentas que utilizo: Intellij, Eclipse, Vscode, Spring Tools Suite e o Postman.
 
-<li>Além da programação, tenho uma boa experiência com hardware e software, já que faço alguns trabalhos com manutenção de PCs e afins.
+<!--<li>Além da programação, tenho uma boa experiência com hardware e software, já que faço alguns trabalhos com manutenção de PCs e afins.
 
-<hr>
+<hr> -->
 
