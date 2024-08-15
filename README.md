@@ -24,7 +24,14 @@
  
  ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )
+ ![image](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)
+![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+ )
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+ 
+![image](https://img.shields.io/badge/ReactJS-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+ )
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -35,8 +42,6 @@
 )
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
- )
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
  )
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
@@ -49,7 +54,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
  
-👷 Também possuo conhecimento em  Java EE, JSP, JSF, thymeleaf. No momento estou estudando Kotlin e ReactJS.
+👷 Também possuo conhecimento em  Java EE, JSP, JSF, thymeleaf.
 
 
 <li>Ferramentas que utilizo: Intellij, Eclipse, Vscode, Spring Tools Suite e o Postman.
